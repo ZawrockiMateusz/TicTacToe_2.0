@@ -1,0 +1,15 @@
+C:\Users\zawro\source\repos\TicTacToe_v2.0\TicTacToe_v2.0\bin\Debug\TicTacToe_v2.0.exe.config
+C:\Users\zawro\source\repos\TicTacToe_v2.0\TicTacToe_v2.0\bin\Debug\TicTacToe_v2.0.exe
+C:\Users\zawro\source\repos\TicTacToe_v2.0\TicTacToe_v2.0\bin\Debug\TicTacToe_v2.0.pdb
+C:\Users\zawro\source\repos\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.csprojAssemblyReference.cache
+C:\Users\zawro\source\repos\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.csproj.CoreCompileInputs.cache
+C:\Users\zawro\source\repos\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.exe
+C:\Users\zawro\source\repos\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.pdb
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.csproj.AssemblyReference.cache
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.csproj.CoreCompileInputs.cache
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.exe
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\obj\Debug\TicTacToe_v2.0.pdb
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\bin\Debug\TicTacToe_v2.0.exe.config
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\bin\Debug\TicTacToe_v2.0.exe
+C:\Users\ilumi\Desktop\TicTacToe_v2.0\TicTacToe_v2.0\bin\Debug\TicTacToe_v2.0.pdb
